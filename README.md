@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-- 🌱 I'm currently learning **Next.js**
+
 - 👨‍💻 All of my projects are available at [www.portfolio.sumith.dev](https://www.portfolio.sumith.dev/)
 - 📫 How to reach me: [sumith2107@gmail.com](mailto:sumith2107@gmail.com)
 - ⚡ Fun fact: Did you know that the first commit ever made on GitHub was on February 2, 2008, and it was for a project called "github" itself? This marked the beginning of what would become the largest open-source community in the world!
