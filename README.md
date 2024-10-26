@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://utfs.io/f/XRL82CdfISnXWlgLSxIGTbRfEwhZU4AH9uypxz0rveYLIa1n" 
+  <img src="https://utfs.io/f/XRL82CdfISnXa6zyHcGWqMhwPVSXNG4fdsmAyeEFoYgZ2U8u" 
        alt="Banner" 
        style="width: 100%; max-width: 800px; height: auto; border: 10px solid white; border-radius: 45px;">
 </div>
