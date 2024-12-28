@@ -42,10 +42,6 @@
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
-![plotarmour21's Stats](https://github-readme-stats.vercel.app/api?username=plotarmour21&theme=default&show_icons=true&hide_border=false&count_private=true)
-![plotarmour21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=plotarmour21&theme=default&hide_border=false)
-![plotarmour21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plotarmour21&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 
 <p align="center">
