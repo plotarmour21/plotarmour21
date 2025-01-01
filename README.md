@@ -44,6 +44,3 @@
 
 
 
-<p align="center">
-  <strong>Happy Coding! 😊</strong>
-</p>
